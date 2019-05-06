@@ -1,4 +1,4 @@
-display.name: "This is a stock display analysis system part come from git config"
+display.name: "This is a stock display analysis system part come from git config modify refresh!"
 spring.jpa.database: "MYSQL"
 spring.datasource.platform: "MYSQL"
 spring.jpa.show-sql: "true"
