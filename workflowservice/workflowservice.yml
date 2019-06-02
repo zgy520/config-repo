@@ -1,4 +1,4 @@
-display.name: "This is a user system manager application"
+display.name: "This is a workflow system manager application"
 spring.jpa.database: "MYSQL"
 spring.jpa.hibernate.naming.physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
 spring.jpa.properties.hibernate.format_sql: true
